@@ -1,0 +1,1538 @@
+[
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.4
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.2
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.11
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.05
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.74
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.45
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.45
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.67
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.9
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.76
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.6
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.34
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.88
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.13
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.66
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.5
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.17
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.42
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.8
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.2
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.34
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.56
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 20,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.55
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.57
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.69
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 14.98
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 14.24
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 13.63
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 13.26
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 13.19
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 12.97
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 13.76
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 14.65
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.58
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.64
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.5
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.36
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.02
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.55
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.64
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.68
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.33
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.88
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.89
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.83
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.73
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 21,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.46
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.7
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.06
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.72
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.56
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.5
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.54
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.97
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.01
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.44
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.31
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.01
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.51
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.7
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.55
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.94
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.15
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.32
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.42
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.18
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.46
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.56
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.41
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.39
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 22,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.4
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.55
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.77
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.39
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.12
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.84
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.56
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.45
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.13
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.31
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.73
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.48
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.51
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 27.75
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 29.89
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 30.92
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 31.22
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 31.36
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 30.48
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.86
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 27.08
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.18
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.86
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.82
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 23,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.05
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.68
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.6
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.82
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.69
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.05
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.52
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.79
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.64
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.27
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.84
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.39
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.33
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 27.33
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.16
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.91
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 29.26
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 29.15
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.65
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.09
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 27.49
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.64
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 26.07
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.6
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 24,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.91
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.2
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.07
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.44
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.59
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.33
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.25
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.14
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.06
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.91
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.79
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 30.95
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 32.55
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 34.24
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 35.27
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 35.85
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 36.24
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 35.62
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 35.27
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 34.62
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 32.27
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 29.43
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 29.04
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 25,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 28.02
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 27.01
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.59
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.12
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.08
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.33
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.48
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.86
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.01
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.87
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.87
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 22.9
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 23.7
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.23
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.35
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.67
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.04
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.44
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 25.54
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 24.49
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.31
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.35
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.46
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.63
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 26,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.44
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "00",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.19
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "01",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.57
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "02",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.91
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "03",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.93
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "04",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.42
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "05",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.01
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "06",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 15.93
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "07",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.44
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "08",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 16.88
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": "09",
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 17.52
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 10,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 11,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.56
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 12,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.03
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 13,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.36
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 14,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.48
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 15,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.79
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 16,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.48
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 17,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.12
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 18,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.52
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 19,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 21.18
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 20,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 20.67
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 21,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.99
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 22,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 19.33
+  },
+  {
+    "Year": 2019,
+    "Month": "07",
+    "Day": 27,
+    "Hour": 23,
+    "Minute": "00",
+    "Temperature  [2 m above gnd]": 18.48
+  }
+]
