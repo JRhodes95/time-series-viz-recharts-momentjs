@@ -17,6 +17,15 @@ const Chart = ({ data }) => {
         data={data}
         margin={{ top: 30, right: 30, left: 30, bottom: 30 }}
       >
+        <defs>
+          <linearGradient id="temperature" x1="0%" y1="100%" x2="0%" y2="0%">
+            <stop offset="0%" stopColor="#540d6e" />
+            <stop offset="25%" stopColor="#c14bbb" />
+            <stop offset="50%" stopColor="#ff0000" />
+            <stop offset="75%" stopColor="#ff8317" />
+            <stop offset="100%" stopColor="#ffdd21" />
+          </linearGradient>
+        </defs>
         <CartesianGrid />
         <XAxis type="number" dataKey="time" domain={["dataMin", "dataMax"]}>
           <Label
@@ -34,7 +43,15 @@ const Chart = ({ data }) => {
           />
         </YAxis>
         <Tooltip />
-        <Line dataKey="temperature" dot={false} />
+        <Line
+          dataKey="temperature"
+          name="Temperature"
+          unit={"°C"}
+          dot={false}
+          type={"natural"}
+          stroke="url(#temperature)"
+          strokeWidth="4px"
+        />
       </LineChart>
     </ResponsiveContainer>
   );
