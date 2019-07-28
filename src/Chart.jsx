@@ -1,12 +1,12 @@
 import React from "react";
-import { Line, LineChart } from "recharts";
+import { Line, LineChart, XAxis, YAxis } from "recharts";
 
 const Chart = ({ data }) => {
   return (
     <LineChart width={600} height={400} data={data}>
-      <Line
-        dataKey="temperature"
-      />
+      <XAxis />
+      <YAxis />
+      <Line dataKey="temperature" />
     </LineChart>
   );
 };
