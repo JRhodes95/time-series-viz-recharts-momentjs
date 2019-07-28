@@ -26,7 +26,7 @@ const Chart = ({ data }) => {
             <stop offset="100%" stopColor="#ffdd21" />
           </linearGradient>
         </defs>
-        <CartesianGrid />
+        <CartesianGrid vertical={false} />
         <XAxis type="number" dataKey="time" domain={["dataMin", "dataMax"]}>
           <Label
             value={"Time"}
