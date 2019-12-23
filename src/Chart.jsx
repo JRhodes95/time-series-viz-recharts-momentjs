@@ -16,11 +16,13 @@ const formatTimestamp = (tick, format) => moment(tick).format(format);
 
 const Chart = ({ data }) => {
   const timestampFormat = "DD/MM/YYYY HH:mm";
+  const xTickFormat = "Do MMM 'YY";
+
   const startTime = data[0].time;
   const endTime = data[data.length - 1].time;
-  const spacing = { every: 1, period: "day" };
-  const xTicks = generateXTicks({ startTime, endTime, spacing });
-  console.log(xTicks);
+  const xTickSpacing = { every: 1, period: "day" };
+
+  const xTicks = generateXTicks({ startTime, endTime, spacing: xTickSpacing });
 
   return (
     <ResponsiveContainer width={"100%"} height={400}>
@@ -42,7 +44,7 @@ const Chart = ({ data }) => {
           type="number"
           dataKey="time"
           domain={["dataMin", "dataMax"]}
-          tickFormatter={tick => formatTimestamp(tick, timestampFormat)}
+          tickFormatter={tick => formatTimestamp(tick, xTickFormat)}
           ticks={xTicks}
         >
           <Label
