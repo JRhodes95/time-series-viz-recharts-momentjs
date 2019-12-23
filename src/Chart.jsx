@@ -9,8 +9,13 @@ import {
   Tooltip,
   Line
 } from "recharts";
+import moment from "moment";
+
+const formatTimestamp = (tick, format) => moment(tick).format(format);
 
 const Chart = ({ data }) => {
+  const timestampFormat = "DD/MM/YYYY HH:mm";
+
   return (
     <ResponsiveContainer width={"100%"} height={400}>
       <LineChart
@@ -27,7 +32,12 @@ const Chart = ({ data }) => {
           </linearGradient>
         </defs>
         <CartesianGrid vertical={false} />
-        <XAxis type="number" dataKey="time" domain={["dataMin", "dataMax"]}>
+        <XAxis
+          type="number"
+          dataKey="time"
+          domain={["dataMin", "dataMax"]}
+          tickFormatter={tick => formatTimestamp(tick, timestampFormat)}
+        >
           <Label
             value={"Time"}
             position="bottom"
@@ -42,7 +52,9 @@ const Chart = ({ data }) => {
             style={{ textAnchor: "middle" }}
           />
         </YAxis>
-        <Tooltip />
+        <Tooltip
+          labelFormatter={tick => formatTimestamp(tick, timestampFormat)}
+        />
         <Line
           dataKey="temperature"
           name="Temperature"
