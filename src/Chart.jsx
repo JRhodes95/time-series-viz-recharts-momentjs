@@ -10,11 +10,17 @@ import {
   Line
 } from "recharts";
 import moment from "moment";
+import { generateXTicks } from "./utils/generateXTicks";
 
 const formatTimestamp = (tick, format) => moment(tick).format(format);
 
 const Chart = ({ data }) => {
   const timestampFormat = "DD/MM/YYYY HH:mm";
+  const startTime = data[0].time;
+  const endTime = data[data.length - 1].time;
+  const spacing = { every: 1, period: "day" };
+  const xTicks = generateXTicks({ startTime, endTime, spacing });
+  console.log(xTicks);
 
   return (
     <ResponsiveContainer width={"100%"} height={400}>
@@ -37,6 +43,7 @@ const Chart = ({ data }) => {
           dataKey="time"
           domain={["dataMin", "dataMax"]}
           tickFormatter={tick => formatTimestamp(tick, timestampFormat)}
+          ticks={xTicks}
         >
           <Label
             value={"Time"}
